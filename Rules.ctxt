@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rules
+comment0.text=\r\n\ Analyze\ the\ chess\ game\ rules.\r\n\r\n\ @author\ Alaaeddine\ Sfali\ Sihadi\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Rules()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rules\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ setPieces()
+comment3.text=\r\n\ Method\ that\ set\ up\ the\ chess\ table.\r\n
+comment4.params=row\ isWhite
+comment4.target=void\ setSingleColorPieces(int,\ boolean)
+comment5.params=x\ y
+comment5.target=javax.swing.JButton\ setTable(int,\ int)
+comment5.text=\r\n\ Method\ that\ set\ up\ the\ chess\ table.\r\n
+numComments=6
